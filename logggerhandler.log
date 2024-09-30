@@ -1,0 +1,12 @@
+30/SEPTEMBER/2024, SEVERE, org.example.task4.TestHandler, Exception be careful!
+java.lang.RuntimeException: Exception occurred!
+	at org.example.task4.TestHandler.main(TestHandler.java:22)
+30/SEPTEMBER/2024, SEVERE, org.example.task4.TestHandler, Exception be careful!
+java.lang.RuntimeException: Exception occurred!
+	at org.example.task4.TestHandler.main(TestHandler.java:22)
+30, SEPTEMBER, 2024, SEVERE, org.example.task4.TestHandler, Exception be careful!
+java.lang.RuntimeException: Exception occurred!
+	at org.example.task4.TestHandler.main(TestHandler.java:22)
+30, SEPTEMBER, 2024, SEVERE, org.example.task4.TestHandler, Exception be careful!
+java.lang.RuntimeException: Exception occurred!
+	at org.example.task4.TestHandler.main(TestHandler.java:24)
